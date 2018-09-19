@@ -2,3 +2,5 @@
 
 1. Download this project and copy files to your htdocs or servers
 2. Open phpmyadmin and import the database
+
+https://github.com/instyo/ionic-login-register-php
